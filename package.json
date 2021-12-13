@@ -123,7 +123,7 @@
     "release": "standard-version"
   },
   "dependencies": {
-    "get-uri": "2.0.3",
+    "get-uri": "2.0.4",
     "sax": "1.2.4"
   },
   "devDependencies": {
